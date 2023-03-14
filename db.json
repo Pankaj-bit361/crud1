@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "title": "Malyali",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1LcEo6dhvSAysHmP6W1N5dXvlN5g86KqGA&usqp=CAU",
+      "price": "400",
+      "brand": "nike",
+      "discount": "20",
+      "category": "male",
+      "id": 1
+    },
+    {
+      "title": "Superman",
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/12700358a.webp",
+      "price": "700",
+      "brand": "addidas",
+      "discount": "100",
+      "category": "kids",
+      "id": 2
+    }
+  ]
+}
